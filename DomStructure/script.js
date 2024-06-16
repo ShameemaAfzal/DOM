@@ -32,7 +32,7 @@ document.body.appendChild(d);
  
 //  inneText and innerHTML
  const para = document.createElement('p')
- para.innerHTML='<span style="color:red">Red</span> <span style="color:green">Green</span> <span style="color:blue">Blue</span>'
+ para.innerHTML='<span style="color:purple">Purple</span> <span style="color:grey">Grey</span> <span style="color:yellow">Yellow</span>'
  document.getElementById("div1").appendChild(para);
 
 //  Query Selector
